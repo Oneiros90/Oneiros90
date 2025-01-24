@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Oneiros90
 - 👀 I'm interested in Computer Science, Technology, Gaming, Extended Reality
-- 🌱 I'm currently learning Unity DOTS
+- 🌱 I'm currently working with Unity DOTS
 - 💞️ I'm looking to collaborate on Gaming projects
 - 📫 How to reach me: oneiros.valente@gmail.com
